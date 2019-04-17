@@ -2,6 +2,7 @@
 To try and test some Pattern Recognition, Machine Learning Algorithms 
 
 Syllabus:
+
 1- Introduction: What is pattern recognition.
 Basic example. Probability concepts; events, probability, random variables, expected values. Decision rule.
 2-Linear Classifier:
