@@ -1,5 +1,5 @@
 # Pattern-Recognition-Machine-Learning
-To try and test some Pattern Recognition, Machine Learning Algorithms 
+To try and test some Pattern Recognition, Machine Learning Algorithms Plus some implementations with Tensorflow
 
 Syllabus:
 
@@ -13,4 +13,10 @@ Basic example. Probability concepts; events, probability, random variables, expe
 7-Linear Regression and TensorFlow Implementations
 
 9-Artificial Neural Networks and TensorFlow Implementations
+
+TensorFlow Basics:
+-TensorFlow Basic Syntax: The related code to practice this part is called Tens_Basic.npy
+-TensorFlow Graphs
+-
+
 
