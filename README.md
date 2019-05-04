@@ -20,7 +20,9 @@ Basic example. Probability concepts; events, probability, random variables, expe
 
 -TensorFlow Graphs: The related code to practice this part is called: TensGraphs.ipynb.
 
--Variables and Placeholders: The related code to practice this part is called: 
+-Variables and Placeholders: The related code to practice this part is called: Var_Placehold.ipynb(.npy).
+
+-
 
 
 
