@@ -22,7 +22,7 @@ Basic example. Probability concepts; events, probability, random variables, expe
 
 -Variables and Placeholders: The related code to practice this part is called: Var_Placehold.ipynb(.npy).
 
--TensorFlow - A Neural Network: The related code to practice this part is called:  
+-TensorFlow - A Neural Network: The related code to practice this part is called: 03-TF-Neural-Network.ipynb
 
 -
 
