@@ -17,7 +17,7 @@ Basic example. Probability concepts; events, probability, random variables, expe
 # TensorFlow Basics:
 
 -TensorFlow Basic Syntax:The related code to practice this part is called Tens_Basic.npy
--TensorFlow Graphs: 
+-TensorFlow Graphs: The related code to practice this part is called
 - 
 
 
