@@ -14,6 +14,13 @@ Basic example. Probability concepts; events, probability, random variables, expe
 
 9-Artificial Neural Networks and TensorFlow Implementations
 
+# Crash Course Section Introduction:
+NumPy Crash Course
+Pandas Crash Course
+Data Visualization Crash Course
+SciKit Learn Preprocessing Overview 
+
+
 # TensorFlow Basics:
 
 -TensorFlow Basic Syntax:The related code to practice this part is called: Tens_Basic.npy.
@@ -24,7 +31,9 @@ Basic example. Probability concepts; events, probability, random variables, expe
 
 -TensorFlow - A Neural Network: The related code to practice this part is called: 03-TF-Neural-Network.ipynb
 
--TensorFlow Classification Example: The related code to practice this part is called: 
+-TensorFlow Classification Example: The related code to practice this part is called:
+
+-TensorFlow Regression Example: The related code to practice this part is called:  
 
 
 
