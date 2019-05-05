@@ -24,7 +24,7 @@ Basic example. Probability concepts; events, probability, random variables, expe
 
 -TensorFlow - A Neural Network: The related code to practice this part is called: 03-TF-Neural-Network.ipynb
 
--
+-TensorFlow Classification Example: The related code to practice this part is called: 
 
 
 
