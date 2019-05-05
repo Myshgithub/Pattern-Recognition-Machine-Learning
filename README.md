@@ -16,8 +16,11 @@ Basic example. Probability concepts; events, probability, random variables, expe
 
 # Crash Course Section Introduction:
 NumPy Crash Course
+
 Pandas Crash Course
+
 Data Visualization Crash Course
+
 SciKit Learn Preprocessing Overview 
 
 
