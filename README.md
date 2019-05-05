@@ -34,7 +34,7 @@ SciKit Learn Preprocessing Overview
 
 -TensorFlow - A Neural Network: The related code to practice this part is called: 03-TF-Neural-Network.ipynb
 
--TensorFlow Classification Example: The related code to practice this part is called:
+-TensorFlow Classification Example: The related code to practice this part is called: Works with pima-indians-diabetes.csv
 
 -TensorFlow Regression Example: The related code to practice this part is called:  
 
