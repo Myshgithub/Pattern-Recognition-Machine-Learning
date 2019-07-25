@@ -1,6 +1,8 @@
 # Pattern-Recognition-Machine-Learning:
 To try and test some Pattern Recognition, Machine Learning Algorithms Plus some implementations with Tensorflow
 
+Pattern Recognition Course, Spring 2019: Offered by Prof. Henry Chu
+(CSCE_509/lecture Slides 01.pdf,02,04,06) 
 Syllabus:
 
 1- Introduction: What is pattern recognition.
