@@ -1,9 +1,15 @@
 # Pattern-Recognition-Machine-Learning:
-To try and test some Pattern Recognition, Machine Learning Algorithms Plus some implementations with Tensorflow
+The goal is to try and test some Pattern Recognition, Machine Learning Algorithms Plus some implementations with Tensorflow
 
-Pattern Recognition Course, Spring 2019: Offered by Prof. Henry Chu
-(CSCE_509/lecture Slides 01.pdf,02,04,06) 
-Syllabus:
+This Pattern Recognition Course, Offered by Prof. Cheehung Henry Chu in Spring 2019 with the following syllabus:
+(CSCE_509/lecture Slides 01.pdf,02,04,06)
+
+However, later I searched more and reviewed some other complimentary materials that I would like to list them here as well:
+
+
+
+
+# Syllabus:
 
 1- Introduction: What is pattern recognition.
 Basic example. Probability concepts; events, probability, random variables, expected values. Decision rule.
