@@ -64,8 +64,10 @@ SciKit Learn Preprocessing Overview
 # Another Pattern Recognition Class Link(2012):
 https://www.youtube.com/playlist?list=PLuRaSnb3n4kRDZVU6wxPzGdx1CN12fn0w
 
-#Lecture Slides for Machine Learning from Department of Computer Science and Engineering, University at Buffalo 
-Instructor: Sargur Srihari 
+# Lecture Slides for Machine Learning from Department of Computer Science and Engineering, University at Buffalo:
+The slides were last updated in Fall 2018. 
+Instructor: Sargur Srihari
+
 https://cedar.buffalo.edu/~srihari/CSE574/
 
 
