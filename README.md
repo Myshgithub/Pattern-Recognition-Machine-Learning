@@ -32,6 +32,10 @@ Basic example. Probability concepts; events, probability, random variables, expe
 -Pattern Recognition and Neural Networks: By B.D. Ripley, Cambridge University Press. ISBN 0 521 46086 7. January 1996.
 http://www.stats.ox.ac.uk/~ripley/PRbook/#Contents
 
+-Trevor Hastie, Robert Tibshirani, Jerome Friedman: "The Elements of Statistical Learning" (2nd edition), 745 pages, Springer, 2009 (online version)
+
+-Richard O. Duda, Peter E. Hart, David G. Stork: "Pattern Classification" (2nd edition), 680 pages, Wiley, 2000 (online version)
+
 
 # Crash Course Section Introduction:
 NumPy Crash Course
@@ -59,4 +63,9 @@ SciKit Learn Preprocessing Overview
 
 # Another Pattern Recognition Class Link(2012):
 https://www.youtube.com/playlist?list=PLuRaSnb3n4kRDZVU6wxPzGdx1CN12fn0w
+
+#Lecture Slides for Machine Learning from Department of Computer Science and Engineering, University at Buffalo 
+Instructor: Sargur Srihari 
+https://cedar.buffalo.edu/~srihari/CSE574/
+
 
