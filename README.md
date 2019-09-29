@@ -70,4 +70,10 @@ Instructor: Sargur Srihari
 
 https://cedar.buffalo.edu/~srihari/CSE574/
 
+# Learning Theory, Course Instructor: Reza Shadmehr
+Spring semester 2017
+
+http://courses.shadmehrlab.org/learningtheory.html
+
+
 
